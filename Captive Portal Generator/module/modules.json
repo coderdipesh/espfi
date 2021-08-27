@@ -1,0 +1,12 @@
+{
+    "templates": [
+        {
+            "name": "Facebook",
+            "dir_name": "facebook",
+            "module": false,
+            "import_file": null
+        }
+
+      
+    ]
+}
