@@ -8,8 +8,8 @@ Facebook Hacking Using Captive Portal Attack (Fake-Ap) with the Help of NodeMcu<
 ### Follow me on Facebook [CLICK HERE](https://facebook.com/dip.dhakal.2005)
 ### Visit website for More Free Tools [CLICK HERE](https://dipeshdhakal.com)
 
-###atch Video on Youtube
-###Watch Tutorial -- [CLICK HERE](https://is.gd/howtoespfi)
+### Watch Video on Youtube
+### Watch Tutorial -- [CLICK HERE](https://is.gd/howtoespfi)
 
 ## Features
 - Captive Portal support
